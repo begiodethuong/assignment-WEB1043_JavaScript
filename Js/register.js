@@ -1,3 +1,19 @@
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
 function kiemtra() {
     var loi = "";
     // kiểm tra mā sinh viên
