@@ -1,3 +1,4 @@
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
 function doimucgia() {
     var arrGia = document.getElementsByName("gia");
     /*get giá trị của giá ở sell.html*/
