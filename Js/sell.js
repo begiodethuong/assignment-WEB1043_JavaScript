@@ -4,6 +4,7 @@ function doimucgia() {
     var obj = document.getElementById("mucgia");
     /*get giá trị của mức giá ở sell.html*/
     mucdangchon = obj.value;
+    /*get value(giá trị) của mức giá sell.html*/
     for (i = 0; i < arrGia.length; i++) {
         gia = parseFloat(arrGia[i].innerText);
         if (gia < mucdangchon || mucdangchon == -1) {
@@ -29,6 +30,7 @@ function tich1checkbox(i) {
 
 function thanhtien(obj) {
     var soluong = obj.value;
+     /*get value(giá trị) của Số lượng sell.html*/
     var gia = obj.parentNode.previousElementSibling.innerText;
     obj.parentNode.nextElementSibling.innerText = soluong * gia;
     tongtien();
