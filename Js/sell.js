@@ -1,6 +1,8 @@
 function doimucgia() {
     var arrGia = document.getElementsByName("gia");
+    /*get giá trị của giá ở sell.html*/
     var obj = document.getElementById("mucgia");
+    /*get giá trị của mức giá ở sell.html*/
     mucdangchon = obj.value;
     for (i = 0; i < arrGia.length; i++) {
         gia = parseFloat(arrGia[i].innerText);
@@ -15,6 +17,7 @@ function doimucgia() {
 
 function tich1checkbox(i) {
     var arrSL = document.getElementsByName("soluong");
+    /*get giá trị của số lượng ở sell.html*/
     arrSL[i].disabled = !arrSL[i].disabled;
 
     if (arrSL[i].disabled == true) {
