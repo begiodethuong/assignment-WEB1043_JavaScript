@@ -1,3 +1,14 @@
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+/*hầu như các function mình đã note hết, nên có hàm gì không hiểu hãy google và note thêm nhá các bro*/
+
 var arr_hinh = [
         "img/1.jpg",
         "img/2.jpg",
