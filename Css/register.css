@@ -1,0 +1,32 @@
+#form1{
+    width: 400px; 
+    margin: auto;
+    padding: 10px 40px; 
+    background: whitesmoke;
+    border: 1px solid black;
+  }
+  #form1 .txt{
+   width: 400px; 
+   padding: 6px;
+   border: solid 1px lightslategrey;
+  }
+  #form1 fieldset{ 
+      border: solid 1px lightslategrey;
+      margin-top:0
+  }
+  #form1 #dangki{
+    width: 100px; height: 40px; 
+    border: none;
+    background-color: royalblue; 
+    color: white;
+   }
+  #form1 #baoloi{ 
+      margin: Opx auto; 
+      color: red
+  }
+  #form1 .loi {
+   width: 400px; 
+   padding: 6px;
+   border:1px solid red; 
+   background-color:yellow;
+  }
